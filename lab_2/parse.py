@@ -48,7 +48,7 @@ def parse():
         except:
             df = df.append({'username':username, 'sesame':null, 'rps':null, 'sleep':null}, ignore_index=True)
         
-        df
+        return df
 
 if __name__ == '__main__':
     parse()
