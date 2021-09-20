@@ -1,10 +1,4 @@
-# Readme
-
-## Alias
-
-ads3pu
-
-## List Items
+### ads3pu
 
 - Elmo
 
